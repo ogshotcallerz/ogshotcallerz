@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ogshotcallerz
+- 👋 Hi, I’m my name is Dwight Peaster
 - 👀 I’m interested in software development. I want to learn more about front end web development.
 - 🌱 I’m currently learning via TheOdinProject and self teaching myself while working a fulltime job.
 
